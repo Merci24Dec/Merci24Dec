@@ -12,3 +12,4 @@ You can click the Preview link to take a look at your changes.
 <code><img width="30" src="https://cdn.svgporn.com/logos/java.svg"></code>
 <code><img width="30" src="https://cdn.svgporn.com/logos/c.svg"></code>
 <code><img width="30" src="https://cdn.svgporn.com/logos/c-plusplus.svg"></code>
+<code><img width="30" src="https://cdn.svgporn.com/logos/python.svg"></code>

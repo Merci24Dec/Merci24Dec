@@ -9,7 +9,7 @@ Merci24Dec/Merci24Dec is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<code><img width="30" src="https://cdn.svgporn.com/logos/java.svg"></code>
+<code><img width="30" src="https://cdn.svgporn.com/logos/java.svg"></code>&nbsp
 <code><img width="30" src="https://cdn.svgporn.com/logos/c.svg"></code>
 <code><img width="30" src="https://cdn.svgporn.com/logos/c-plusplus.svg"></code>
 <code><img width="30" src="https://cdn.svgporn.com/logos/python.svg"></code>

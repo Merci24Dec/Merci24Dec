@@ -3,7 +3,7 @@
 - 🌱 I’m currently doing bachelor's in the domain of Computer science and engineering.
 - 💞️ I’m looking to collaborate on building some realtime software's.
 - 📫 How to reach me - reach out at <a target="_blank" href="https://www.linkedin.com/in/akash-dubey-b94aa8185/">
-  <img src="https://www.linkedin.com/" />
+  <img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" />
 
 <!---
 Merci24Dec/Merci24Dec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

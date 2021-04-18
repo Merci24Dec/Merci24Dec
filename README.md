@@ -19,8 +19,14 @@ You can click the Preview link to take a look at your changes.
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+  
+  <a href="https://github.com/Merci24Dec">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merci24Dec&layout=compact&theme=radical&langs_count=8&hide=html,css">
+</a>
 
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Merci24Dec&show_icons=true&hide_border=true" />
+<a href="https://github.com/Merci24Dec">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Merci24Dec&show_icons=true&theme=radical&hide_border=true">
+  
 
 </details>
 

@@ -19,11 +19,11 @@ You can click the Preview link to take a look at your changes.
 
   
   <a href="https://github.com/Merci24Dec">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merci24Dec&layout=compact&theme=linear&langs_count=10">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=linear&langs_count=10">
 </a>
 
 <a href="https://github.com/Merci24Dec">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Merci24Dec&show_icons=true&theme=linear&hide_border=true">
-  
+</a>  
 
 

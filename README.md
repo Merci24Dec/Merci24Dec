@@ -17,3 +17,11 @@ You can click the Preview link to take a look at your changes.
 <code><img width="30" src="https://cdn.svgporn.com/logos/php.svg"></code>
 <code><img width="30" src="https://cdn.svgporn.com/logos/mysql.svg"></code>
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Merci24Dec&show_icons=true&hide_border=true" />
+
+</details>
+
+

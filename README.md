@@ -5,7 +5,7 @@
 - 📫 How to reach me - reach out at <a target="_blank" href="https://www.linkedin.com/in/akash-dubey-b94aa8185/">
   <img width="15" height="15" src="https://cdn.svgporn.com/logos/linkedin-icon.svg" /></a>
    <img width="15" height="15" src="https://cdn.svgporn.com/logos/google-gmail.svg" />
-   <img width="15" height="15" src="https://cdn.svgporn.com/logos/google-gmail.svg" />
+   <img width="15" height="15" src="" />
 
 <!---
 Merci24Dec/Merci24Dec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

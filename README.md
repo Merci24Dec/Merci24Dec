@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
   <summary>:zap: GitHub Stats</summary>
   
   <a href="https://github.com/Merci24Dec">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merci24Dec&layout=compact&theme=radical&langs_count=8&hide=html,css">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merci24Dec&layout=compact&theme=radial&langs_count=8&hide=html,css">
 </a>
 
 <a href="https://github.com/Merci24Dec">

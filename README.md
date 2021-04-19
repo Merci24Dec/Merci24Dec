@@ -1,23 +1,7 @@
 <p align="center"><h1 align="center">
   <div class="Greeting">
-   <span>👋</span>
-   <span>H</span>
-   <span>e</span>
-   <span>l</span>
-   <span>l</span>
-   <span>o</span>
-    &nbsp;
-   <span>e</span>
-   <span>v</span>
-   <span>e</span>
-   <span>r</span>
-   <span>y</span>
-   <span>o</span>
-   <span>n</span>
-   <span>e</span>
-   <span>,</span>
-    </div>
-    &nbsp;<br>
+   👋Hello everyone,
+    <br>
     <div>
   <span>I</span>
   <span>'</span>

@@ -1,4 +1,3 @@
-<link rel="stylesheet" type="text/css" href="style.css">
 <p align="center"><h1 align="center">
    👋Hello everyone,
     &nbsp;<br>
@@ -52,4 +51,4 @@
 </a>
 </p>
 
-
+<link rel="stylesheet" type="text/css" href="style.css">

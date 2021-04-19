@@ -38,7 +38,7 @@
   </div>  
   </h1> </p>  
   
-  <p>#### _What I'm Interested in?_
+  <p><b>What I'm Interested in ?</b>
 👀 I’m interested in learning new technologies and use them for successfully developing a software/creating any new project.</p>
 
 🌱 I’m currently doing bachelor's in the domain of Computer science and engineering.

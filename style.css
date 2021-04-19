@@ -90,13 +90,5 @@ video{
 }
   
 .Name{
-  height: 70px;
-  width: 70%;
-  background: url(./road_img/road1.jpg);
-  background-size: contain;
-  display: block;
-  position: absolute;
-  bottom: 13%;
-  left: 15%;
-  background-repeat:repeat-x;
+
 }

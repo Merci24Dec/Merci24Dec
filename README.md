@@ -69,4 +69,4 @@
 </a>
 </p>
 
-<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="https://github.com/Merci24Dec/Merci24Dec/blob/main/style.css">

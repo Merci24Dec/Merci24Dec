@@ -2,13 +2,8 @@
   <div class="Greeting">
    👋Hello everyone,
     <br>
-    <div>
-  <span>I</span>
-  <span>'</span>
-  <span>m</span>
-    </div>
-  <br>
-  <div class="Name">
+    I'm
+    <br>
   <span>A</span>
   <span>K</span>
   <span>A</span>
@@ -19,8 +14,7 @@
   <span>U</span>
   <span>B</span>
   <span>E</span>
-  <span>Y</span> 
-  </div>  
+  <span>Y</span>  
   </h1> </p>  
   
   <p>

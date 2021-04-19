@@ -37,7 +37,10 @@
   <span>Y</span> 
   </div>  
   </h1> </p>  
-👀 I’m interested in learning new technologies and use them for successfully developing a software/creating any new project.
+  
+  <p>#### _What I'm Interested in?_
+👀 I’m interested in learning new technologies and use them for successfully developing a software/creating any new project.</p>
+
 🌱 I’m currently doing bachelor's in the domain of Computer science and engineering.
 💞️ I’m looking to collaborate on building some realtime software's.
 📫 How to reach me - reach out at <a target="_blank" href="https://www.linkedin.com/in/akash-dubey-b94aa8185/">

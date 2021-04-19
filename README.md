@@ -1,7 +1,6 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 <p align="center"><h1 align="center">
   <div class="Greeting">
-    <video src="smoke.mp4" autoplay muted></video>
   👋
    <span>H</span>
    <span>e</span>

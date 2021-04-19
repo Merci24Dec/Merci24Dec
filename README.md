@@ -1,22 +1,7 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 <p align="center"><h1 align="center">
   <div class="Greeting">
-  👋
-   <span>H</span>
-   <span>e</span>
-   <span>l</span>
-   <span>l</span>
-   <span>o</span>
-    &nbsp;
-   <span>e</span>
-   <span>v</span>
-   <span>e</span>
-   <span>r</span>
-   <span>y</span>
-   <span>o</span>
-   <span>n</span>
-   <span>e</span>
-   <span>,</span>
+   👋Hello everyone,
     &nbsp;<br>
   <span>I</span>
   <span>'</span>

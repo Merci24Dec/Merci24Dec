@@ -1,6 +1,7 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 <p align="center"><h1 align="center">
   <div class="Greeting">
+    <video src="smoke.mp4" autoplay muted></video>
   👋
    <span>H</span>
    <span>e</span>
@@ -18,12 +19,12 @@
    <span>e</span>
    <span>,</span>
     &nbsp;<br>
-    </div>
-  <div class="Name">
   <span>I</span>
   <span>'</span>
   <span>m</span>
-    <br>
+   </div>
+   <br>
+  <div class="Name">
   <span>A</span>
   <span>K</span>
   <span>A</span>

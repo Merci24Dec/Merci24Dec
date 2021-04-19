@@ -1,20 +1,42 @@
 <link rel="stylesheet" type="text/css" href="style.css">
-<p><h1 align="center">👋 Hello everyone, 
+<p align="center"><h1 align="center">
+  <div class="Greeting">
+  👋
+   <span>H</span>
+   <span>e</span>
+   <span>l</span>
+   <span>l</span>
+   <span>o</span>
+    &nbsp;
+   <span>e</span>
+   <span>v</span>
+   <span>e</span>
+   <span>r</span>
+   <span>y</span>
+   <span>o</span>
+   <span>n</span>
+   <span>e</span>
+   <span>,</span>
+    &nbsp;
+    </div>
+  <div class="Name">
   <span>I</span>
   <span>'</span>
   <span>m</span>
+    &nbsp;
   <span>A</span>
   <span>k</span>
   <span>a</span>
   <span>s</span>
   <span>h</span>
-  <span> </span>
+    &nbsp;    
   <span>D</span>
   <span>u</span>
   <span>b</span>
   <span>e</span>
-  <span>y</span>
-</h1></p>  
+  <span>y</span> 
+  </div>  
+  </h1> </p>  
 👀 I’m interested in learning new technologies and use them for successfully developing a software/creating any new project.
 🌱 I’m currently doing bachelor's in the domain of Computer science and engineering.
 💞️ I’m looking to collaborate on building some realtime software's.

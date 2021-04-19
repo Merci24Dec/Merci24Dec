@@ -1,13 +1,11 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 <p align="center"><h1 align="center">
-  <div class="Greeting">
    👋Hello everyone,
     &nbsp;<br>
   <span>I</span>
   <span>'</span>
   <span>m</span>
-   </div>
-   <br>
+  <br>
   <div class="Name">
   <span>A</span>
   <span>K</span>

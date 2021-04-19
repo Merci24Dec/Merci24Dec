@@ -1,9 +1,20 @@
-<p><h1>👋 Hello everyone, I'm Akash Dubey</h1></p>
-  
-  
-  
-  
-  
+<link rel="stylesheet" type="text/css" href="style.css">
+<p><h1 align="center">👋 Hello everyone, 
+  <span>I</span>
+  <span>'</span>
+  <span>m</span>
+  <span>A</span>
+  <span>k</span>
+  <span>a</span>
+  <span>s</span>
+  <span>h</span>
+  <span> </span>
+  <span>D</span>
+  <span>u</span>
+  <span>b</span>
+  <span>e</span>
+  <span>y</span>
+</h1></p>  
 👀 I’m interested in learning new technologies and use them for successfully developing a software/creating any new project.
 🌱 I’m currently doing bachelor's in the domain of Computer science and engineering.
 💞️ I’m looking to collaborate on building some realtime software's.

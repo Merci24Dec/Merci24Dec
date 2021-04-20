@@ -48,4 +48,4 @@
 </a>
 </p>
 
-* _:zap:Fun fact:My friend's say, I'm a good influential speaker😅._
+* _:zap:A random fact about me: My friend's say, I'm a good influential/motivational speaker😅._

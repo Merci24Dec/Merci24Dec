@@ -2,7 +2,7 @@
   <div class="Greeting">
    👋Hello everyone,
     <br>
-  I'm AKASH
+  I'm Akash
     &nbsp;  
   <br> aka <br>
   <span>@</span>  

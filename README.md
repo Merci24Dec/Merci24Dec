@@ -24,9 +24,9 @@
   
 ### _Wan'na have a talk?_
 > 📫 <span>r</span><span>e</span><span>a</span><span>c</span><span>h</span> <span>m</span><span>e</span> <span>o</span><span>u<span><span>t</span> @:<br> 
-  <a href="https://www.linkedin.com/in/akash-dubey-b94aa8185/"><img width="25" height="25" src="https://cdn.svgporn.com/logos/linkedin-icon.svg"></a>     
-    <a href="mailto:akashdubey24122707@gmail.com?subject=Hi%20Akash,%20From%20Github"><img width="25" height="25" src="https://cdn.svgporn.com/logos/google-gmail.svg"></a>     
-      <a href="https://twitter.com/Merci99Dub"><img width="25" height="25" src="https://cdn.svgporn.com/logos/twitter.svg">     
+  &nbsp;<a href="https://www.linkedin.com/in/akash-dubey-b94aa8185/"><img width="25" height="25" src="https://cdn.svgporn.com/logos/linkedin-icon.svg"></a>
+  &nbsp;<a href="mailto:akashdubey24122707@gmail.com?subject=Hi%20Akash,%20From%20Github"><img width="25" height="25" src="https://cdn.svgporn.com/logos/google-gmail.svg"></a>
+  &nbsp;<a href="https://twitter.com/Merci99Dub"><img width="25" height="25" src="https://cdn.svgporn.com/logos/twitter.svg">     
   
 ### _Languages & Technology I'm acquainted with:_
   <p>

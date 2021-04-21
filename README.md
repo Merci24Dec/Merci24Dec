@@ -35,6 +35,10 @@
   <code><img width="30" src="https://cdn.svgporn.com/logos/c-plusplus.svg"></code>
   <code><img width="30" src="https://cdn.svgporn.com/logos/python.svg" alt="Python"></code>
   <code><img width="30" src="https://cdn.svgporn.com/logos/php.svg"></code>
+  <code><img width="30" src="https://cdn.svgporn.com/logos/html-5.svg"></code>
+  <code><img width="30" src="https://cdn.svgporn.com/logos/css-3.svg"></code>
+  <code><img width="30" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
+  <code><img width="30" src="https://cdn.svgporn.com/logos/eclipse-icon.svg"></code>
   <code><img width="30" src="https://cdn.svgporn.com/logos/mysql.svg"></code></p>
 
 ### _✨GitHub Stats_

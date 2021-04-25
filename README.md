@@ -34,7 +34,7 @@
   <code><img width="30" src="https://cdn.svgporn.com/logos/c.svg"></code>
   <code><img width="30" src="https://cdn.svgporn.com/logos/c-plusplus.svg"></code>
   <code><img width="30" src="https://cdn.svgporn.com/logos/python.svg" alt="Python"></code>
-  <code><img width="30" src="https://cdn.svgporn.com/logos/php.svg"></code>
+  <code><img width="30" src="https://cdn.svgporn.com/logos/php.svg"></code><br>
   <code><img width="30" src="https://cdn.svgporn.com/logos/html-5.svg"></code>
   <code><img width="30" src="https://cdn.svgporn.com/logos/css-3.svg"></code>
   <code><img width="30" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>

@@ -46,7 +46,7 @@
 ### _✨GitHub Stats_
   <p>
   <a href="https://github.com/Merci24Dec">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merci24Dec&layout=full&theme=radical&langs_count=10">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merci24Dec&layout=full&theme=radical&langs_count=100">
 </a>
 
 <a href="https://github.com/Merci24Dec">

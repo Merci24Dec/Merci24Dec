@@ -54,4 +54,4 @@
 </a>
 </p>
 
-* _:zap:A fun fact about me: I mostly become talkative when I'm with my people😝._
+* _:zap:A fun fact about me: I mostly become talkative when, I'm with my people😝._

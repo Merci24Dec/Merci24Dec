@@ -54,4 +54,4 @@
 </a>
 </p>
 
-* _:zap:A random fact about me: My friend's say, I'm a good influential/motivational speaker😅._
+* _:zap:A fun fact about me: I mostly become talkative when I'm with my people😝._

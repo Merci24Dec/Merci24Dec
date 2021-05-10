@@ -43,15 +43,4 @@
   <code><img width="30" src="https://cdn.svgporn.com/logos/eclipse-icon.svg"></code>
   <code><img width="30" src="https://cdn.svgporn.com/logos/mysql.svg"></code></p>
 
-### _✨GitHub Stats_
-  <p>
-  <a href="https://github.com/Merci24Dec">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merci24Dec&layout=full&theme=radical&langs_count=100">
-</a>
-
-<a href="https://github.com/Merci24Dec">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Merci24Dec&show_icons=true&theme=linear&hide_border=true">
-</a>
-</p>
-
 * _:zap:A fun fact about me: I mostly become talkative when, I'm with my people😝._

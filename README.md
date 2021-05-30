@@ -43,4 +43,4 @@
   <code><img width="30" src="https://cdn.svgporn.com/logos/eclipse-icon.svg"></code>
   <code><img width="30" src="https://cdn.svgporn.com/logos/mysql.svg"></code></p>
 
-* _:zap:A fun fact about me: I mostly become talkative when, I'm with my people😝._
+* _:zap:A fun fact about me: I mostly become talkative, when I'm with my people😝._

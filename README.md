@@ -1,11 +1,10 @@
 <p align="left"><h1>
-  <div class="Greeting">
-        👋<br>
-  Hello everyone,
+  <code>👋</code><br>
+  <code>Hello everyone,</code>
     <br>
-  I'm Akash Dubey
+  <code>I'm Akash Dubey</code>
     &nbsp;  
-  <br> aka <br>
+  <br><code> aka </code><br>
   <code><a href="https://github.com/Merci24Dec">
   <span>@</span>  
   <span>M</span>

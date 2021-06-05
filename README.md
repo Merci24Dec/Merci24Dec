@@ -1,10 +1,10 @@
 <p align="left"><h1>
-  <code>👋</code><br>
-  <code>Hello everyone,</code>
+  👋<br>
+  Hello everyone,
     <br>
-  <code>I'm Akash Dubey</code>
+  I'm Akash Dubey
     &nbsp;  
-  <br><code> aka </code><br>
+  <br> aka <br>
   <code><a href="https://github.com/Merci24Dec">
   <span>@</span>  
   <span>M</span>
@@ -18,7 +18,7 @@
   <span>e</span>
   <span>c</span>
   </a></code>
-  </h1> </p>  
+  </h1> </p>
   
 ### _A breif about me and my interests:_
   **_My name is Akash and at present I’m a student programmer👨‍💻.🌱 I'm currently doing bachelor's in the domain of Computer science and engineering [@GIETU](https://g.co/kgs/uaBbSJ).👀 I’m interested in learning new technologies and use them for successfully developing a software/creating any new project.💞️ I’m looking to collaborate on building some realtime software's. I am a team player and I truly believe in teamwork😉._**

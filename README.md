@@ -6,7 +6,7 @@
   I'm Akash Dubey
     &nbsp;  
   <br> aka <br>
-  <a href="https://github.com/Merci24Dec">
+  <code><a href="https://github.com/Merci24Dec">
   <span>@</span>  
   <span>M</span>
   <span>e</span>
@@ -18,7 +18,7 @@
   <span>D</span>
   <span>e</span>
   <span>c</span>
-  </a>
+  </a></code>
   </h1> </p>  
   
 ### _A breif about me and my interests:_

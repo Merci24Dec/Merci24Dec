@@ -25,7 +25,7 @@
   
 ### _Wan'na converse?_
 > 📫 <span>r</span><span>e</span><span>a</span><span>c</span><span>h</span> <span>m</span><span>e</span> <span>o</span><span>u<span><span>t</span> @:<br> 
-  &nbsp;<a href="linkedin.com/in/akashdubey-1"><img width="25" height="25" src="https://cdn.svgporn.com/logos/linkedin-icon.svg"></a>
+  &nbsp;<a href="https://www.linkedin.com/in/akashdubey-1"><img width="25" height="25" src="https://cdn.svgporn.com/logos/linkedin-icon.svg"></a>
   &nbsp;<a href="mailto:akashdubey24122707@gmail.com?subject=Hi%20Akash,%20From%20Github"><img width="25" height="25" src="https://cdn.svgporn.com/logos/google-gmail.svg"></a>
   &nbsp;<a href="https://twitter.com/Merci99Dub"><img width="25" height="25" src="https://cdn.svgporn.com/logos/twitter.svg">     
   

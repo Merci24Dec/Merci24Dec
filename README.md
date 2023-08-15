@@ -1,24 +1,12 @@
-<p align="left"><h1>
+<p align="left">
+  <h1>
   👋<br>
   Hello everyone,
     <br>
   I'm Akash Dubey
     &nbsp;  
-  <br> aka <br>
-  <code><a href="https://github.com/Merci24Dec">
-  <span>@</span>  
-  <span>M</span>
-  <span>e</span>
-  <span>r</span>
-  <span>c</span>
-  <span>i</span>   
-  <span>2</span>
-  <span>4</span>
-  <span>D</span>
-  <span>e</span>
-  <span>c</span>
-  </a></code>
-  </h1> </p>
+ </h1> 
+</p>
   
 ### _A breif about me and my interests:_
   **_My name is Akash and at present I’m a student programmer👨‍💻.🌱 I'm currently doing bachelor's in the domain of Computer science and engineering [@GIETU](https://g.co/kgs/uaBbSJ).👀 I’m interested in learning new technologies and use them for successfully developing a software/creating any new project.💞️ I’m looking to collaborate on building some realtime software's. I am a team player and I truly believe in teamwork😉._**
